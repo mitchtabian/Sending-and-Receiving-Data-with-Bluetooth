@@ -1,0 +1,93 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml:3:11-61
+		INJECTED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.bluetooth
+ADDED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml:6:5-63
+	android:name
+		ADDED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml:6:19-60
+uses-permission#android.permission.BLUETOOTH
+ADDED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml:8:5-74
+	android:name
+		ADDED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml:8:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml:10:5-78
+	android:name
+		ADDED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.BLUETOOTH_PRIVILEGED
+ADDED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml:11:22-76
+application
+ADDED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml:13:5-26:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml:16:9-41
+	android:supportsRtl
+		ADDED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml:17:9-35
+	android:allowBackup
+		ADDED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml:15:9-43
+	android:theme
+		ADDED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.example.user.bluetooth_communication.MainActivity
+ADDED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml:19:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml:21:17-68
+	android:name
+		ADDED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:24.2.1] F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.1] F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.1] F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-vector-drawable:24.2.1] F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:20:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudio Projects\Bluetooth-Communication\app\src\main\AndroidManifest.xml

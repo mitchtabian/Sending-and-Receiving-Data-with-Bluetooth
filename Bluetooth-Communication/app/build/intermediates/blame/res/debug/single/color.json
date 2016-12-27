@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    }
+]

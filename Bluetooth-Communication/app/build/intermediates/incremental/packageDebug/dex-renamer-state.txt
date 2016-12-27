@@ -1,0 +1,4 @@
+#Wed Dec 21 20:06:39 PST 2016
+base.0=F\:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=F\:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
